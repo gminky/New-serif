@@ -3,4 +3,4 @@
 본명조/고딕의 2차제작.
 
 # 
-<img src="https://github.com/gminky/New-serif/blob/otf/%EC%B4%88%EC%84%B1.png" width="300" height="500">
+<img src="https://github.com/gminky/New-serif/raw/otf/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(105).png" width="400" height="1000">
